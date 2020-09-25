@@ -1,0 +1,167 @@
+a:hover{
+  color: #eaf6f6;
+}
+body{
+  color: #40514e;
+  font-family: sans-serif;
+  margin: 0;
+  text-align: center;
+  }
+
+.bottomcontainer{
+    background-color: #66bfbf;
+    height: 10em;
+    margin-top: 1%;
+    padding-top: 3%
+
+  }
+
+.bottom{
+    left: 20%;
+    position: absolute;
+  }
+
+  .btn {
+   background: #AE3DF6;
+   background-image:  -webkit-linear-gradient(top, #AE3DF6, #1EBED0);
+   background-image: -ms-linear-gradient(top, #AE3DF6, #1EBED0);
+   background-image: -o-linear-gradient(top, #AE3DF6, #1EBED0);
+   background-image: linear-gradient(to bottom, #AE3DF6, #1EBED0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 8px;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #1EB2D0;
+   background-image: -webkit-linear-gradient(top, #1EB2D0, #3DF6B9);
+   background-image: -moz-linear-gradient(top, #1EB2D0, #3DF6B9);
+   background-image: -ms-linear-gradient(top, #1EB2D0, #3DF6B9);
+   background-image: -o-linear-gradient(top, #1EB2D0, #3DF6B9);
+   background-image: linear-gradient(to bottom, #1EB2D0, #3DF6B9);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.code_img{
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+  }
+
+.cook_img{
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.contdetails{
+  padding-bottom: 2em;
+
+}
+
+.footer-link{
+    color: #11999e;
+    font-family: 'Kalam', cursive;
+    font-weight: bold;
+    margin: 2em;
+    text-decoration: none;
+  }
+
+.footer-name{
+  color: #eaf6f6;
+}
+
+h1{
+  color: #66bfbf;
+  font-family: 'Satisfy', cursive;
+  font-size: 4.5rem;
+  line-height: 2;
+  margin-top: 50px;
+ }
+
+h2{
+   color: #66bfbf;
+   font-family: 'Great Vibes', cursive;
+   font-size: 2.5rem;
+ }
+
+h3{
+   color: #11999e;
+   font-family: 'Kalam', cursive;
+ }
+
+ .Horizontal-line{
+   border-style: dotted none none none;
+   border-width: .5em;
+   color: #e8e8e8;
+   margin: 5% auto;
+   width: 5%;
+ }
+
+.Introduction{
+   margin: auto;
+   width: 50%;
+ }
+
+.middlecontainer{
+ padding: 5em 0;
+ text-align: center;
+ }
+
+.mount{
+   padding-top: 10px;
+ }
+
+.pro{
+   text-decoration: underline;
+ }
+
+p{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+.topcontainer{
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top{
+  position: absolute;
+  right: 20%;
+  top: 10%;
+}
+
+/*.skill11{
+  position: relative;
+  right: 60%;
+}
+
+.skill1{
+  position: relative;
+  right: 75%;
+}*/
+
+.skill-row{
+  margin: 10% auto;
+  line-height: 2;
+  text-align: left;
+  width: 50%;
+}
